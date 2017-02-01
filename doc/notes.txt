@@ -1,0 +1,6 @@
+
+mvn -Djetty.reload=automatic -Djetty.scanIntervalSeconds=2 jetty:run
+
+If you are depending on Eclipse, ensure you have Project->Build Automatically enabled so that the classes are recompiled.
+
+To be checked the approach used in http://docs.codehaus.org/display/JETTY/Maven+Jetty+Plugin
