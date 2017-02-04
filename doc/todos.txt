@@ -1,0 +1,8 @@
+
+-------------------------------------------------------------------------------
+   Java 9 packaging check
+-------------------------------------------------------------------------------
+
+Using Java 9 (compiled + run with), a ClassNotFoundException: javax.xml.bind.annotation.XmlElement
+is thrown while just testing http://localhost:8080/api/test/hello.json
+
