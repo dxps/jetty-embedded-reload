@@ -8,7 +8,7 @@ public class JettyEmbReloadAppStart {
 
     public static void main(String args[]) {
 
-        String webappDirLocation = "web-ui/";
+        String webappDirLocation = "web-ui";
 
         String webPort = System.getenv("PORT");
         if (webPort == null || webPort.isEmpty()) {
