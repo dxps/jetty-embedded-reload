@@ -40,7 +40,7 @@ public class TestResource
     public Data getHelloJSON() throws InterruptedException
     {
         final SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss:SSS");
-        final String message = "test hello json, " + sdf.format(new Date());
+        final String message = "test hello.json, " + sdf.format(new Date());
         return new Data(message);
     }
 
