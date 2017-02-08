@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------
    Document the details of debug + IDEA's "Hot Reload" features for reloading
 -------------------------------------------------------------------------------
-
+- for IDEA: Debugger's HotSwap feature screenshot added
 
 -------------------------------------------------------------------------------
    Java 9 packaging check
