@@ -1,9 +1,18 @@
 
 
 -------------------------------------------------------------------------------
-   Document the details of debug + IDEA's "Hot Reload" features for reloading
+   Hot Reloading using IntelliJ IDEA
 -------------------------------------------------------------------------------
-- for IDEA: Debugger's HotSwap feature screenshot added
+
+- Debugger's HotSwap feature screenshot added: "Reload classes in background"
+
+
+-------------------------------------------------------------------------------
+   Hot Reloading using Eclipse
+-------------------------------------------------------------------------------
+
+...
+
 
 -------------------------------------------------------------------------------
    Java 9 packaging check
