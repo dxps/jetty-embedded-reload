@@ -7,7 +7,7 @@ import java.util.Set;
 
 /**
  * <br>
- * 2015-02-20 | ilema | .
+ * 2015-02-20 | visvadw | .
  */
 @ApplicationPath("/rest")
 public class RestApplication extends Application
